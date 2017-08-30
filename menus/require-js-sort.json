@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Sort requiree",
+        "command": "require-js-sort:sort"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "require-js-sort",
+          "submenu": [
+            {
+              "label": "Sort",
+              "command": "require-js-sort:sort"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

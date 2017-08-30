@@ -1,0 +1,18 @@
+{
+  "name": "require-js-sort",
+  "main": "./lib/require-js-sort",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "require-js-sort:sort"
+  },
+  "repository": "https://github.com/atom/require-js-sort",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
