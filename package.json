@@ -1,14 +1,16 @@
 {
   "name": "require-js-sort",
   "main": "./lib/require-js-sort",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.1.1",
+  "description": "Sorts required and imported js libs by path",
   "keywords": [
+      "sorting",
+      "tool",
   ],
   "activationCommands": {
     "atom-workspace": "require-js-sort:sort"
   },
-  "repository": "https://github.com/atom/require-js-sort",
+  "repository": "https://github.com/azlato/require-js-sort",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

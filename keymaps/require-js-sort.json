@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "require-js-sort:sort"
+    "f9": "require-js-sort:sort"
   }
 }
