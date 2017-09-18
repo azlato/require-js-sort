@@ -17,4 +17,4 @@ import Cage from "app/js/cage.js";
 import {buy} from "app/js/zoo-manager.js";
 ```
 
-![GIF example](https://github.com/azlato/require-js-sort/blob/master/example.gif)
+![GIF example](example.gif)
