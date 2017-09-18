@@ -1,11 +1,11 @@
 {
   "name": "require-js-sort",
   "main": "./lib/require-js-sort",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Sorts required and imported js libs by path",
   "keywords": [
       "sorting",
-      "tool",
+      "tool"
   ],
   "activationCommands": {
     "atom-workspace": "require-js-sort:sort"
