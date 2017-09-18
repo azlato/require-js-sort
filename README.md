@@ -5,14 +5,16 @@ Simple Atom tool for sorting your "require" and "import x from" by file path.
 Example:
 This ...
 ```javascript
-const {color} = require('banana.js');
-import {color} from 'apple.js';
+import {buy} from "app/js/zoo-manager.js";
+import Cage from "app/js/cage.js";
+import Animal from "app/js/animal.js";
 ```
 
 ... will be converted to ...
 ```javascript
-import {color} from 'apple.js';
-const {color} = require('banana.js');
+import Animal from "app/js/animal.js";
+import Cage from "app/js/cage.js";
+import {buy} from "app/js/zoo-manager.js";
 ```
 
 ![GIF example](https://github.com/azlato/require-js-sort/blob/master/example.gif)
