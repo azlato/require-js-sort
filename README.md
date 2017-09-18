@@ -1,6 +1,6 @@
-# require-js-sort package
+# require-js-sort package for Atom editor
 
-Simple tool for sorting your "require" and "import x from" by file path.
+Simple Atom tool for sorting your "require" and "import x from" by file path.
 
 Example:
 This ...
